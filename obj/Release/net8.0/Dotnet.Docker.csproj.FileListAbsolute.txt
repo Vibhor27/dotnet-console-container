@@ -1,0 +1,14 @@
+C:\Users\Test\source\repos\App\bin\Release\net8.0\Dotnet.Docker.exe
+C:\Users\Test\source\repos\App\bin\Release\net8.0\Dotnet.Docker.deps.json
+C:\Users\Test\source\repos\App\bin\Release\net8.0\Dotnet.Docker.runtimeconfig.json
+C:\Users\Test\source\repos\App\bin\Release\net8.0\Dotnet.Docker.dll
+C:\Users\Test\source\repos\App\bin\Release\net8.0\Dotnet.Docker.pdb
+C:\Users\Test\source\repos\App\obj\Release\net8.0\Dotnet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Test\source\repos\App\obj\Release\net8.0\Dotnet.Docker.AssemblyInfoInputs.cache
+C:\Users\Test\source\repos\App\obj\Release\net8.0\Dotnet.Docker.AssemblyInfo.cs
+C:\Users\Test\source\repos\App\obj\Release\net8.0\Dotnet.Docker.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\App\obj\Release\net8.0\Dotnet.Docker.dll
+C:\Users\Test\source\repos\App\obj\Release\net8.0\refint\Dotnet.Docker.dll
+C:\Users\Test\source\repos\App\obj\Release\net8.0\Dotnet.Docker.pdb
+C:\Users\Test\source\repos\App\obj\Release\net8.0\Dotnet.Docker.genruntimeconfig.cache
+C:\Users\Test\source\repos\App\obj\Release\net8.0\ref\Dotnet.Docker.dll
